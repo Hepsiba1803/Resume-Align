@@ -1,3 +1,4 @@
+
 ### Resume-JD Matcher
 
 A web-based application that compares a user’s resume with a job description using NLP, computes a match score, identifies missing skills/keywords, and suggests improvements. The tool also provides ATS-friendliness feedback to help users optimize their resumes for automated screening systems.
